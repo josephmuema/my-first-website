@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    text-align: center;
+    font-style: italic;
+}
+h2{ color: blue;
+    text-align: center;
+    font-style: italic;
+}
+p{font-family: sans-serif;
+}
+ul{
+    line-height: 40px;
+}
+img {
+    float: right;
+  }
